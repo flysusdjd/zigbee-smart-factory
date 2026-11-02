@@ -1,0 +1,51 @@
+# ---- 构建产物 ----
+*.pbi
+*.cout
+*.dep
+*.o
+*.obj
+*.hex
+*.bin
+*.out
+*.map
+*.lst
+*.d51
+*.a51
+*_build/
+build-*/
+build/
+CoordinatorEB/
+EndDeviceEB/
+Debug/
+Release/
+release/
+debug/
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+ui_*.h
+
+# ---- IAR / Qt 本地设置 ----
+settings/
+*.wspos
+*.wsdt
+*.pro.user
+*.pro.user.*
+
+# ---- 文档与素材 ----
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+*.mp4
+*.wmv
+
+# ---- 系统 ----
+Thumbs.db
+Desktop.ini
+.DS_Store

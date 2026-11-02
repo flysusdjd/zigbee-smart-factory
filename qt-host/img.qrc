@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>blueled.png</file>
+        <file>redled.png</file>
+        <file>20240718081415.png</file>
+        <file>20240718081904.png</file>
+        <file>20240718081927.png</file>
+        <file>20240718082418.png</file>
+        <file>20240718082427.png</file>
+        <file>20240718082431.png</file>
+        <file>20240718091431.png</file>
+        <file>20240718091613.png</file>
+        <file>20240718091755.png</file>
+        <file>20240718092010.png</file>
+        <file>20240718104206.jpg</file>
+    </qresource>
+</RCC>
